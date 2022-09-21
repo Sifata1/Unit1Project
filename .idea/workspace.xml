@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b488b3b8-bac5-49a3-908c-d93ad655bcf8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unit1Project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unit1Project.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unit1Project.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Unit1Project.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +61,32 @@
       <option name="presentableId" value="Default" />
       <updated>1663774225552</updated>
     </task>
+    <task id="LOCAL-00001" summary="Asked user for inputs, saving current code.">
+      <created>1663774913983</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663774913983</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Asked user for inputs, saving current code.">
+      <created>1663775010080</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663775010080</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Asked user for inputs, saving current code.">
+      <created>1663775080725</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663775080725</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Asked user for inputs, saving current code." />
+    <option name="LAST_COMMIT_MESSAGE" value="Asked user for inputs, saving current code." />
   </component>
 </project>
