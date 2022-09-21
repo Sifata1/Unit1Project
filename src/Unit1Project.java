@@ -12,3 +12,4 @@ public class Unit1Project {
         int numOfPeople = s.nextInt();
     }
 }
+u
