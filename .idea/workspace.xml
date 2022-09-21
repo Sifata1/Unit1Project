@@ -82,11 +82,19 @@
       <option name="project" value="LOCAL" />
       <updated>1663775080725</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added values for total tip , total bill, tip per person.">
+      <created>1663777112725</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1663777112725</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Asked user for inputs, saving current code." />
-    <option name="LAST_COMMIT_MESSAGE" value="Asked user for inputs, saving current code." />
+    <MESSAGE value="Added values for total tip , total bill, tip per person." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added values for total tip , total bill, tip per person." />
   </component>
 </project>

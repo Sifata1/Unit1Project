@@ -24,13 +24,19 @@ public class Unit1Project {
         System.out.println("Total Tip: $" + totalTip);
 
         double totalBillWithTip = (totalTip) + (totalBill);
-        totalBillWithTip = Math.round(totalBillWithTip);
+        totalBillWithTip = Math.round(totalBillWithTip * 100);
+        totalBillWithTip = Math.round(totalBillWithTip / 100);
         System.out.println("Total Bill With Tip: $" + totalBillWithTip);
 
         double tipPerPerson = (totalTip)/(numOfPeople);
         tipPerPerson = Math.round(tipPerPerson * 100);
         tipPerPerson = (tipPerPerson/100);
         System.out.println("Tip Per Person: $" + tipPerPerson);
+
+        double billPerPerson = (tipPerPerson) +  ((totalBill)/numOfPeople);
+        billPerPerson = Math.round(billPerPerson * 100);
+        billPerPerson = Math.round(billPerPerson /100);
+        System.out.println("Total Bill Per Person: $" + billPerPerson);
 
 
 
