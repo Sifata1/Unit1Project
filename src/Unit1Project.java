@@ -14,7 +14,7 @@ public class Unit1Project {
         int numOfPeople = s.nextInt();
 
         System.out.println();
-        String design = ("<----------------------->");
+        String design = ("<---------------------------->");
         System.out.println(design);
 
 
@@ -23,9 +23,9 @@ public class Unit1Project {
         totalTip = (totalTip / 100);
         System.out.println("Total Tip: $" + totalTip);
 
-        double totalBillWithTip = (totalTip) + (totalBill);
+        double totalBillWithTip = (totalTip) + (double)(totalBill);
         totalBillWithTip = Math.round(totalBillWithTip * 100);
-        totalBillWithTip = Math.round(totalBillWithTip / 100);
+        totalBillWithTip = (totalBillWithTip / 100);
         System.out.println("Total Bill With Tip: $" + totalBillWithTip);
 
         double tipPerPerson = (totalTip)/(numOfPeople);
@@ -33,11 +33,12 @@ public class Unit1Project {
         tipPerPerson = (tipPerPerson/100);
         System.out.println("Tip Per Person: $" + tipPerPerson);
 
-        double billPerPerson = (tipPerPerson) +  ((totalBill)/numOfPeople);
+        double billPerPerson = (tipPerPerson) +  ((double)(totalBill)/numOfPeople);
         billPerPerson = Math.round(billPerPerson * 100);
-        billPerPerson = Math.round(billPerPerson /100);
+        billPerPerson = (billPerPerson /100);
         System.out.println("Total Bill Per Person: $" + billPerPerson);
 
+        System.out.println(design);
 
 
 
